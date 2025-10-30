@@ -1,4 +1,4 @@
-from src.lecture05_01 import lecture05_01
+from src.k24040 import k24040
 
 if __name__ == "__main__":
-    lecture05_01()
+    k24040()
